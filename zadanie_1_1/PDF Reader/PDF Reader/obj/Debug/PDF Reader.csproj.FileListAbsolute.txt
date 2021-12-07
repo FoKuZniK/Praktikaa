@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.Cache
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+C:\Users\Студент\Desktop\PraktikaProkinGusev\Задание1\Упражнение1\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb
